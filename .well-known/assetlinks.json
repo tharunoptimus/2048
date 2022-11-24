@@ -1,0 +1,12 @@
+[
+	{
+		"relation": ["delegate_permission/common.handle_all_urls"],
+		"target": {
+			"namespace": "android_app",
+			"package_name": "dev.pages.its2048.twa",
+			"sha256_cert_fingerprints": [
+				"2F:FD:E0:81:D2:96:AF:28:26:EE:36:CC:89:C6:81:D6:5A:49:F0:D8:A4:39:5C:7B:80:6D:2D:C4:DC:8F:C5:21"
+			]
+		}
+	}
+]
